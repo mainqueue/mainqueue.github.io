@@ -1,4 +1,4 @@
 ---
-layout: custom_home
 title: Статьи
+layout: home
 ---
