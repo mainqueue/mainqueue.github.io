@@ -23,6 +23,8 @@ plugins:
   
 show_excerpts: true
 
+google_analytics: G-YYZ795831P
+
 # Theme-specific settings
 
 #minima:
